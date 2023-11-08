@@ -6,7 +6,7 @@
     "scripts": {
         "install-client": "cd slotDeploy && npm install",
         "build-client": "cd slotDeploy && npm run build",
-        "start-client": "cd slotDeploy && npm run dev"
+        "start-client": "cd slotDeploy && npm run dev && npm run backend"
     },
     "keywords": [],
     "author": "",
